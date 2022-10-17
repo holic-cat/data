@@ -7321,10 +7321,11 @@ StateIconList[EFST_IDs.EFST_VR_BOOK004] = {
 		{ "%s", COLOR_TIME },
 		{ "Skill casting cannot be interrupted." }
 	}
+}
 StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
 	descript = {
 		{ "Weight over 70%", COLOR_TITLE_DEBUFF },
 		{ "Disables natural HP and SP regeneration" }
 	}
-}
+
 }

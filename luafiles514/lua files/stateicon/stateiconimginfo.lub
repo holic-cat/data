@@ -531,7 +531,7 @@ StateIconImgList = {
 		-- Other official effects
 		[EFST_IDs.EFST_YGGDRASIL_BLESS] = "vitata500.tga",
 		[EFST_IDs.EFST_PERIOD_RECEIVEITEM_2ND] = "ITEM_G.tga",
-		[EFST_IDs.EFST_PERIOD_PLUSEXP_2ND] = "EXP_G.tga"
+		[EFST_IDs.EFST_PERIOD_PLUSEXP_2ND] = "EXP_G.tga",
 		[EFST_IDs.EFST_VIPSTATE] = "vip.tga"
 
 	}
