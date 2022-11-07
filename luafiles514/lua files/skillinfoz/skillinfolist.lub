@@ -16475,4 +16475,12 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 	},
+	[SKID.ELVESRO_LEAP] = {
+		"ELVESRO_LEAP",
+		SkillName = "Leap Of Faith",
+		MaxLv = 5,
+		SpAmount = { 40, 44, 48, 52, 56 },
+		bSeperateLv = true,
+		AttackRange = { 5, 6, 7, 8, 9 },
+	},
 }

@@ -7325,10 +7325,11 @@ StateIconList[EFST_IDs.EFST_VR_BOOK004] = {
 StateIconList[EFST_IDs.EFST_VIPSTATE] = {
 	descript = {
 		{ "VIP", COLOR_TITLE_SYSTEM },
-		{ "@autoattack" },
 		{ "@storage " },
 		{ "@autostore " },
+		{ "@colornick " },
 		{ "+10% Drop/Exp Rates " },
+		{ "Others" },
 	}
 
 }
