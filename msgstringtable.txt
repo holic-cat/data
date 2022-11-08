@@ -3678,8 +3678,8 @@ Human#
 Angel#
 Dragon#
 Balance: %s %c#
- ^ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it will be excluded from the withdrawal of subscription. Also, the free cash used for purchase will not be returned upon withdrawal of subscription. ^000000Are you sure you want to purchase the item? %s Cash will be deducted when purchasing.#
- ^ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it will be excluded from the withdrawal of subscription. Also, the free cash used for purchase will not be returned upon withdrawal of subscription. ^000000Are you sure you want to purchase the item? If you purchase, normal %s cash and free %s cash will be deducted.#
+ ^ff0000Are you sure you want to purchase the items?#
+ ^ff0000Are you sure you want to purchase the items?#
 The call was rejected.#
 The purchase limit cannot exceed your possession.#
 Failed to open the stall. Please close the window of the purchase stall.#
@@ -3769,8 +3769,8 @@ The Enchanting Shadow effect has been canceled.#
 Suppression Count On#
 Suppression Count Off#
 The target has reached it's maximum AP.#
-^ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it will be excluded from the withdrawal of subscription. Also, the free cash used at the time of purchase will not be returned when the subscription is withdrawn. Some (event) items may be deleted at the end of the event, Please confirm the deletion period listed. ^000000 Are you sure you want to purchase the item? %d Cash will be deducted when purchasing.#
-^ff0000You can withdraw your subscription within 7 days of purchasing this item. However, if 7 days have passed or the item is opened, it will be excluded from the withdrawal of subscription. Also, the free cash used at the time of purchase will not be returned when the subscription is withdrawn. Some (event) items may be deleted at the end of the event, Please confirm the deletion period listed. ^000000 Are you sure you want to purchase the item? When purchasing, the regular %d cache and free% d cache will be deducted.#
+^ff0000Are you sure you want to purchase the items?#
+^ff0000Are you sure you want to purchase the items?#
 Requires %d Servant Weapons#
 https://member.gnjoy.com.tw/billing.aspx#
 Reverse sort#
