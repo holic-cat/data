@@ -2987,8 +2987,8 @@ Failed to feed pet, please close RODEX window#
 Swap Equipment#
 Equip#
 Equipment will dissapear when refine fails#
-Equipment's refine level will be decreased when refine fails#
-Equipment will dissapear or refine level will decrease when refine fails#
+Equipment will dissapear when refine fails#
+Equipment will dissapear when refine fails#
 You cannot use RODEX while refining. RODEX has been closed.#
 You cannot use RODEX while refining.#
 Please close other windows to continue.#
@@ -3711,7 +3711,7 @@ Insufficient amount of materials.#
 There is not enough item space.#
 Equipment is protected.#
 Equipment can be destroyed.#
-If the refine upgrade fails, the refine level will go down.#
+Equipment will dissapear when refine fails#
 Rodex cannot be used while upgrading. Forced the end of Rodex.#
 Rodex cannot be used while upgrading.#
 Bank cannot be used while upgrading. The bank was forcibly closed.#
