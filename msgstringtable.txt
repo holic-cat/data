@@ -3289,7 +3289,7 @@ There is no target in attack range vicinity. Please use 'Alt + Right Click' to c
 Sell List#
 Buy List#
 New#
-Popular#
+Costume#
 Limited Sale#
 Rental Equipment#
 Permanent Equipment#
