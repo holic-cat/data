@@ -12308,6 +12308,7 @@ SKILL_DESCRIPT = {
 		"Max Level: 10",
 		"^CC3399Requirement: Rampage Blaster 1,",
 		"Tiger Cannon 5^000000",
+		"Cancel Devotion Status Upon Release the skill",
 		"Skill Form: ^3F0099Active^000000",
 		"Type: ^FF0000Physical Ranged^000000",
 		"Target: ^6666CC1 Character^000000",
