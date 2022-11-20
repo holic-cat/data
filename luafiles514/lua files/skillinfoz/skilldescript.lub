@@ -13274,13 +13274,13 @@ SKILL_DESCRIPT = {
 		"[Lv 1]: ^777777AoE: 3x3 cells^000000",
 		"[Lv 2]: ^777777AoE: 3x3 cells^000000",
 		"[Lv 3]: ^777777AoE: 3x3 cells^000000",
-		"[Lv 4]: ^777777AoE: 5x5 cells^000000",
-		"[Lv 5]: ^777777AoE: 5x5 cells^000000",
-		"[Lv 6]: ^777777AoE: 5x5 cells^000000",
-		"[Lv 7]: ^777777AoE: 7x7 cells^000000",
-		"[Lv 8]: ^777777AoE: 7x7 cells^000000",
-		"[Lv 9]: ^777777AoE: 7x7 cells^000000",
-		"[Lv 10]: ^777777AoE: 9x9 cells^000000"
+		"[Lv 4]: ^777777AoE: 3x3 cells^000000",
+		"[Lv 5]: ^777777AoE: 3x3 cells^000000",
+		"[Lv 6]: ^777777AoE: 3x3 cells^000000",
+		"[Lv 7]: ^777777AoE: 3x3 cells^000000",
+		"[Lv 8]: ^777777AoE: 3x3 cells^000000",
+		"[Lv 9]: ^777777AoE: 3x3 cells^000000",
+		"[Lv 10]: ^777777AoE: 3x3 cells^000000"
 	},
 	[SKID.SO_ARRULLO] = {
 		"Arrullo",
