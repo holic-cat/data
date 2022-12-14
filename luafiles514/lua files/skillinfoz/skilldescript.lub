@@ -10223,7 +10223,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Inflicts ranged physical",
 		"damage by pouring a rain of arrows like a",
 		"storm at a target and surrounding enemies",
-		"within 9x9 cells around the target.",
+		"within 3x3 cells around the target.",
 		"Damage additionally increases according",
 		"to the caster's ^CC6600Base Level^777777 and if",
 		"^0000FFFear Breeze^777777 is active, it will inflict more damage.",
