@@ -10958,7 +10958,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KYOUGAKU] = {
 		"KO_KYOUGAKU",
-		SkillName = "Illusion - Shock",
+		SkillName = "HEX",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -16464,7 +16464,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
-		AttackRange = { 5, 6, 7, 8, 9 },
+		AttackRange = { 8, 9, 10, 12, 14 },
 	},
 	[SKID.ELVESRO_CI] = {
 		"ELVESRO_CI",
@@ -16481,6 +16481,14 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
-		AttackRange = { 5, 6, 7, 8, 9 },
+		AttackRange = { 8, 9, 10, 12, 14 },
+	},
+	[SKID.ELVESROMELTER] = {
+		"ELVESROMELTER",
+		SkillName = "FCP Removal Solution",
+		MaxLv = 5,
+		SpAmount = { 1000, 800, 700, 600, 500 },
+		bSeperateLv = true,
+		AttackRange = { 8, 9, 10, 12, 14 },
 	},
 }

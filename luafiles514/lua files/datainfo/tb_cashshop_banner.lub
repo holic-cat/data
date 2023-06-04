@@ -1,23 +1,23 @@
 tb_cashshop_banner = {
 	[1] = {
 		"01_cashshop_banner.bmp",
-		"https://gloriousro.com/"
+		"https://elvesorigin.com/"
 	},
 	[2] = {
 		"02_cashshop_banner.bmp",
-		"https://gloriousro.com/"
+		"https://elvesorigin.com/"
 	},
 	[3] = {
 		"03_cashshop_banner.bmp",
-		"https://gloriousro.com/" 
+		"https://elvesorigin.com/" 
 	},
 	[4] = {
 		"04_cashshop_banner.bmp",
-		"https://gloriousro.com/" 
+		"https://elvesorigin.com/" 
 	},
 	[5] = {
 		"05_cashshop_banner.bmp",
-		"https://gloriousro.com/" 
+		"https://elvesorigin.com/" 
 	}
 }
 
